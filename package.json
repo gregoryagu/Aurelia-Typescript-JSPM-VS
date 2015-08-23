@@ -1,0 +1,14 @@
+{
+  "jspm": {
+    "directories": {},
+    "dependencies": {
+      "aurelia-animator-css": "github:aurelia/animator-css@^0.15.0",
+      "aurelia-bootstrapper": "github:aurelia/bootstrapper@^0.16.0",
+      "aurelia-fetch-client": "github:aurelia/fetch-client@^0.1.2",
+      "aurelia-framework": "github:aurelia/framework@^0.15.0",
+      "aurelia-http-client": "github:aurelia/http-client@^0.10.3",
+      "bootstrap": "github:twbs/bootstrap@^3.3.5",
+      "css": "github:systemjs/plugin-css@^0.1.13"
+    }
+  }
+}
